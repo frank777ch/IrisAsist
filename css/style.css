@@ -2,3 +2,9 @@
     max-width: 100%;
     height: auto;
 }
+.image-container {
+    text-align: center; /* Centra horizontalmente */
+    margin: 0 auto; /* Centra verticalmente */
+    margin-top: 50px; 
+    max-width: 40%; /* Reducción del tamaño */
+}
